@@ -837,6 +837,30 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":8,
+         "firstgid":12072,
+         "image":"tiles\/BW32x32_monochrome_walls_Denzi070708-2.png",
+         "imageheight":128,
+         "imagewidth":256,
+         "margin":0,
+         "name":"SWw\u00e4nde4",
+         "spacing":0,
+         "tilecount":32,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":31,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
