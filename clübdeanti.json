@@ -5405,20 +5405,6 @@
                 }],
          "tilewidth":32,
          "transparentcolor":"#476c6c"
-        }, 
-        {
-         "columns":18,
-         "firstgid":15149,
-         "image":"tiles\/32x32_scifi_Denzi130320-1.png",
-         "imageheight":384,
-         "imagewidth":576,
-         "margin":0,
-         "name":"32x32_scifi_Denzi130320-1",
-         "spacing":0,
-         "tilecount":216,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#476c6c"
         }],
  "tilewidth":32,
  "type":"map",
