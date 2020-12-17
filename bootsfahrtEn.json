@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":100,
  "infinite":true,
  "layers":[
@@ -449,6 +442,20 @@
          "name":"MataraelfayB\u00e4ume",
          "spacing":0,
          "tilecount":1496,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#003039"
+        }, 
+        {
+         "columns":9,
+         "firstgid":22686,
+         "image":"tiles\/mapUtilities.png",
+         "imageheight":32,
+         "imagewidth":288,
+         "margin":0,
+         "name":"aAamapUtilities",
+         "spacing":0,
+         "tilecount":9,
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
