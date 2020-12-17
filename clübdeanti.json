@@ -53,7 +53,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"openStream",
                  "type":"string",
                  "value":"https:\/\/kluengel.org\/vizworld\/heimkindertestsetstream.mp3"
                 }],
