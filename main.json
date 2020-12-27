@@ -263,9 +263,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"{<lobby>\/maps\/software.json#start_vizak}"
+                }, 
+                {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/software.json#start_vizak}"
+                 "value":"{<lobby>\/maps\/software.json#start_vizak}"
                 }],
          "type":"tilelayer",
          "visible":true,
