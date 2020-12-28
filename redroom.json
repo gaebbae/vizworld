@@ -46,7 +46,7 @@
          "name":"ground",
          "opacity":0.9,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":32,
          "x":0,
          "y":0
