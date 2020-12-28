@@ -33,6 +33,12 @@
          "id":3,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"porcarl2.json#start"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
