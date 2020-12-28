@@ -116,8 +116,8 @@
          "height":32,
          "id":14,
          "name":"funktionsteppich",
-         "offsetx":3.66666666666663,
-         "offsety":45.3333333333334,
+         "offsetx":-0.333333333333371,
+         "offsety":50.6666666666666,
          "opacity":1,
          "properties":[
                 {
@@ -225,6 +225,8 @@
          "height":32,
          "id":4,
          "name":"carl",
+         "offsetx":0,
+         "offsety":-8,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
