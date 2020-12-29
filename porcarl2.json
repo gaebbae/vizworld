@@ -19,7 +19,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"tilesaudioRadioCarlWillkommen.mp3"
+                 "value":"tiles\/audioRadioCarl\/Willkommen.mp3"
                 }, 
                 {
                  "name":"startLayer",
