@@ -17,6 +17,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"tilesaudioRadioCarlWillkommen.mp3"
+                }, 
+                {
                  "name":"startLayer",
                  "type":"bool",
                  "value":true
