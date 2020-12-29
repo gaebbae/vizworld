@@ -8,12 +8,6 @@
          "id":1,
          "name":"Kachelebene 1",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"{<vizak>\/redroom.json#start}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
