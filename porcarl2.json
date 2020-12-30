@@ -132,7 +132,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"404animated2.json#start"
+                 "value":"404.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
