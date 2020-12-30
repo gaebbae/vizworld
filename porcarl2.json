@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<kreaturworks>\/main.json#start}"
+                 "value":"{<kreaturworks-rotersalon>\/main.json#start}"
                 }],
          "type":"tilelayer",
          "visible":true,
