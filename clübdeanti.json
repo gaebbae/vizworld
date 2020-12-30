@@ -663,6 +663,12 @@
          "id":4,
          "name":"ravePic",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.vizak.org\/club-de-anti\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":112,
