@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"greencarl.json#start"
+                 "value":"{<kreaturworks>\/main.json#start}"
                 }],
          "type":"tilelayer",
          "visible":true,
