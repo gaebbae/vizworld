@@ -56,6 +56,12 @@
          "id":11,
          "name":"tele2lounge",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"{<lounge>\/main.json#start}"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,
