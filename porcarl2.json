@@ -114,7 +114,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<komona>\/main.json#start}"
+                 "value":"{<chaoszone>\/main.json#start}"
                 }],
          "type":"tilelayer",
          "visible":true,
