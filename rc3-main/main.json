@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":15,
  "infinite":false,
  "layers":[
@@ -66,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"porcarl2.json#start"
+                 "value":"{<vizak>\/porcarl2.json#start}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -149,7 +156,7 @@
         {
          "columns":20,
          "firstgid":1,
-         "image":"rc3-main\/tilesets\/carlimgruen.png",
+         "image":"tilesets\/carlimgruen.png",
          "imageheight":480,
          "imagewidth":640,
          "margin":0,
@@ -162,7 +169,7 @@
         {
          "columns":26,
          "firstgid":301,
-         "image":"rc3-main\/tilesets\/Tileset_mit_und_ohne_ZON.png",
+         "image":"tilesets\/Tileset_mit_und_ohne_ZON.png",
          "imageheight":970,
          "imagewidth":859,
          "margin":0,
@@ -936,7 +943,7 @@
         {
          "columns":20,
          "firstgid":1081,
-         "image":"rc3-main\/tilesets\/Felsen-unten-rechts.png",
+         "image":"tilesets\/Felsen-unten-rechts.png",
          "imageheight":480,
          "imagewidth":640,
          "margin":0,
@@ -949,7 +956,7 @@
         {
          "columns":20,
          "firstgid":1381,
-         "image":"rc3-main\/tilesets\/Voordergrund.png",
+         "image":"tilesets\/Voordergrund.png",
          "imageheight":480,
          "imagewidth":640,
          "margin":0,
@@ -962,7 +969,7 @@
         {
          "columns":16,
          "firstgid":1681,
-         "image":"rc3-main\/tilesets\/rc3-mullana-neon-signs.png",
+         "image":"tilesets\/rc3-mullana-neon-signs.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -975,7 +982,7 @@
         {
          "columns":16,
          "firstgid":1937,
-         "image":"rc3-main\/tilesets\/rc3-mullana-functionary.png",
+         "image":"tilesets\/rc3-mullana-functionary.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1007,7 +1014,7 @@
         {
          "columns":9,
          "firstgid":2193,
-         "image":"rc3-main\/tilesets\/mapUtilities.png",
+         "image":"tilesets\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -1020,7 +1027,7 @@
         {
          "columns":3,
          "firstgid":2202,
-         "image":"rc3-main\/tilesets\/2Birken.png",
+         "image":"tilesets\/2Birken.png",
          "imageheight":108,
          "imagewidth":108,
          "margin":0,
@@ -1033,7 +1040,7 @@
         {
          "columns":8,
          "firstgid":2211,
-         "image":"rc3-main\/tilesets\/NeonLights.png",
+         "image":"tilesets\/NeonLights.png",
          "imageheight":384,
          "imagewidth":256,
          "margin":0,
@@ -1046,7 +1053,7 @@
         {
          "columns":3,
          "firstgid":2307,
-         "image":"rc3-main\/tilesets\/NeonLights_Hing.png",
+         "image":"tilesets\/NeonLights_Hing.png",
          "imageheight":192,
          "imagewidth":96,
          "margin":0,
@@ -1180,7 +1187,7 @@
         {
          "columns":8,
          "firstgid":2325,
-         "image":"rc3-main\/tilesets\/NeonLights_Irg.png",
+         "image":"tilesets\/NeonLights_Irg.png",
          "imageheight":192,
          "imagewidth":256,
          "margin":0,
@@ -1514,7 +1521,7 @@
         {
          "columns":21,
          "firstgid":2373,
-         "image":"rc3-main\/tilesets\/bueste.png",
+         "image":"tilesets\/bueste.png",
          "imageheight":467,
          "imagewidth":700,
          "margin":0,
@@ -1527,7 +1534,7 @@
         {
          "columns":3,
          "firstgid":2667,
-         "image":"rc3-main\/tilesets\/weisespferd.png",
+         "image":"tilesets\/weisespferd.png",
          "imageheight":108,
          "imagewidth":108,
          "margin":0,

@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1640,7 +1640,7 @@
          "margin":0,
          "name":"reggae",
          "spacing":0,
-         "tilecount":66,
+         "tilecount":9,
          "tileheight":32,
          "tilewidth":32
         }],
