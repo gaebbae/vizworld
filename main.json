@@ -377,7 +377,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/ATLASbase_out_atlas.png",
+         "image":"/tiles/ATLASbase_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -391,7 +391,7 @@
         {
          "columns":32,
          "firstgid":1025,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/ATLASbuild_atlas.png",
+         "image":"/tiles/ATLASbuild_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -405,7 +405,7 @@
         {
          "columns":32,
          "firstgid":2049,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/ATLASobj_misk_atlas.png",
+         "image":"/tiles/ATLASobj_misk_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -419,7 +419,7 @@
         {
          "columns":32,
          "firstgid":3073,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/ATLASterrain.png",
+         "image":"/tiles/ATLASterrain.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -433,7 +433,7 @@
         {
          "columns":32,
          "firstgid":4097,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/ATLASterrain_atlas.png",
+         "image":"/tiles/ATLASterrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -560,7 +560,7 @@
         {
          "columns":8,
          "firstgid":5121,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/BW32x32_monochrome_walls_Denzi070708-2.png",
+         "image":"/tiles/BW32x32_monochrome_walls_Denzi070708-2.png",
          "imageheight":128,
          "imagewidth":256,
          "margin":0,
@@ -584,7 +584,7 @@
         {
          "columns":10,
          "firstgid":5153,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/BWtileset_32x32_1bit.png",
+         "image":"/tiles/BWtileset_32x32_1bit.png",
          "imageheight":416,
          "imagewidth":320,
          "margin":0,
@@ -608,7 +608,7 @@
         {
          "columns":20,
          "firstgid":5283,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/sheet.png",
+         "image":"/tiles/sheet.png",
          "imageheight":288,
          "imagewidth":640,
          "margin":0,
@@ -622,7 +622,7 @@
         {
          "columns":7,
          "firstgid":5463,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/Tileset__castle__.png",
+         "image":"/tiles/Tileset__castle__.png",
          "imageheight":320,
          "imagewidth":224,
          "margin":0,
@@ -636,7 +636,7 @@
         {
          "columns":30,
          "firstgid":5533,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/hyptosis_tile-art-batch-1.png",
+         "image":"/tiles/hyptosis_tile-art-batch-1.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -650,7 +650,7 @@
         {
          "columns":30,
          "firstgid":6433,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/hyptosis_til-art-batch-2.png",
+         "image":"/tiles/hyptosis_til-art-batch-2.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -664,7 +664,7 @@
         {
          "columns":30,
          "firstgid":7333,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/hyptosis_tile-art-batch-3.png",
+         "image":"/tiles/hyptosis_tile-art-batch-3.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -678,7 +678,7 @@
         {
          "columns":30,
          "firstgid":8233,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/hyptosis_tile-art-batch-4.png",
+         "image":"/tiles/hyptosis_tile-art-batch-4.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -692,7 +692,7 @@
         {
          "columns":19,
          "firstgid":9133,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/hyptosis_tile-art-batch-5.png",
+         "image":"/tiles/hyptosis_tile-art-batch-5.png",
          "imageheight":1219,
          "imagewidth":636,
          "margin":0,
@@ -706,7 +706,7 @@
         {
          "columns":16,
          "firstgid":9855,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/Hytown.png",
+         "image":"/tiles/Hytown.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -720,7 +720,7 @@
         {
          "columns":16,
          "firstgid":10111,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/Hytrees.png",
+         "image":"/tiles/Hytrees.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -734,7 +734,7 @@
         {
          "columns":16,
          "firstgid":10367,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/Hytrees_plants.png",
+         "image":"/tiles/Hytrees_plants.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -748,7 +748,7 @@
         {
          "columns":16,
          "firstgid":10623,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/Hytrees_plants_rocks.png",
+         "image":"/tiles/Hytrees_plants_rocks.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -762,7 +762,7 @@
         {
          "columns":16,
          "firstgid":10879,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/c3_deko.png",
+         "image":"/tiles/c3_deko.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -776,7 +776,7 @@
         {
          "columns":16,
          "firstgid":11903,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/rc3-mullana-neon-signs.png",
+         "image":"/tiles/rc3-mullana-neon-signs.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -790,7 +790,7 @@
         {
          "columns":16,
          "firstgid":12159,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/rc3-mullana-objects.png",
+         "image":"/tiles/rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -804,7 +804,7 @@
         {
          "columns":13,
          "firstgid":12287,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/ATLASplantrepack.png",
+         "image":"/tiles/ATLASplantrepack.png",
          "imageheight":416,
          "imagewidth":416,
          "margin":0,
@@ -818,7 +818,7 @@
         {
          "columns":2,
          "firstgid":12456,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/worldExit.png",
+         "image":"/tiles/worldExit.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -832,7 +832,7 @@
         {
          "columns":16,
          "firstgid":12460,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/rc3-mullana-functionary.png",
+         "image":"/tiles/rc3-mullana-functionary.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1148,7 +1148,7 @@
         {
          "columns":16,
          "firstgid":12716,
-         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/dk_transports.png",
+         "image":"/tiles/dk_transports.png",
          "imageheight":96,
          "imagewidth":512,
          "margin":0,
