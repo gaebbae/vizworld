@@ -899,7 +899,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"/tiles\/ATLASbase_out_atlas.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/ATLASbase_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -913,7 +913,7 @@
         {
          "columns":32,
          "firstgid":1025,
-         "image":"/tiles\/ATLASbuild_atlas.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/ATLASbuild_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -927,7 +927,7 @@
         {
          "columns":32,
          "firstgid":2049,
-         "image":"/tiles\/ATLASobj_misk_atlas.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/ATLASobj_misk_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -990,7 +990,7 @@
         {
          "columns":13,
          "firstgid":3073,
-         "image":"/tiles\/ATLASplantrepack.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/ATLASplantrepack.png",
          "imageheight":416,
          "imagewidth":416,
          "margin":0,
@@ -1004,7 +1004,7 @@
         {
          "columns":32,
          "firstgid":3242,
-         "image":"/tiles\/ATLASterrain.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/ATLASterrain.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1018,7 +1018,7 @@
         {
          "columns":32,
          "firstgid":4266,
-         "image":"/tiles\/ATLASterrain_atlas.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/ATLASterrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1032,7 +1032,7 @@
         {
          "columns":10,
          "firstgid":5290,
-         "image":"/tiles\/BWtileset_32x32_1bit.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/BWtileset_32x32_1bit.png",
          "imageheight":416,
          "imagewidth":320,
          "margin":0,
@@ -1149,7 +1149,7 @@
         {
          "columns":20,
          "firstgid":5420,
-         "image":"/tiles\/sheet.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/sheet.png",
          "imageheight":288,
          "imagewidth":640,
          "margin":0,
@@ -1163,7 +1163,7 @@
         {
          "columns":7,
          "firstgid":5600,
-         "image":"/tiles\/Tileset__castle__.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/Tileset__castle__.png",
          "imageheight":320,
          "imagewidth":224,
          "margin":0,
@@ -1177,7 +1177,7 @@
         {
          "columns":30,
          "firstgid":5670,
-         "image":"/tiles\/hyptosis_tile-art-batch-1.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/hyptosis_tile-art-batch-1.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -1191,7 +1191,7 @@
         {
          "columns":30,
          "firstgid":6570,
-         "image":"/tiles\/hyptosis_til-art-batch-2.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/hyptosis_til-art-batch-2.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -1205,7 +1205,7 @@
         {
          "columns":30,
          "firstgid":7470,
-         "image":"/tiles\/hyptosis_tile-art-batch-3.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/hyptosis_tile-art-batch-3.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -1219,7 +1219,7 @@
         {
          "columns":30,
          "firstgid":8370,
-         "image":"/tiles\/hyptosis_tile-art-batch-4.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/hyptosis_tile-art-batch-4.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -1233,7 +1233,7 @@
         {
          "columns":19,
          "firstgid":9270,
-         "image":"/tiles\/hyptosis_tile-art-batch-5.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/hyptosis_tile-art-batch-5.png",
          "imageheight":1219,
          "imagewidth":636,
          "margin":0,
@@ -1247,7 +1247,7 @@
         {
          "columns":16,
          "firstgid":9992,
-         "image":"/tiles\/Hytown.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/Hytown.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1261,7 +1261,7 @@
         {
          "columns":16,
          "firstgid":10248,
-         "image":"/tiles\/Hytrees.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/Hytrees.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1275,7 +1275,7 @@
         {
          "columns":16,
          "firstgid":10504,
-         "image":"/tiles\/Hytrees_plants.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/Hytrees_plants.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1289,7 +1289,7 @@
         {
          "columns":16,
          "firstgid":10760,
-         "image":"/tiles\/Hytrees_plants_rocks.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/Hytrees_plants_rocks.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1303,7 +1303,7 @@
         {
          "columns":14,
          "firstgid":11016,
-         "image":"/tiles\/testrave32x32x224x7.jpg",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/testrave32x32x224x7.jpg",
          "imageheight":224,
          "imagewidth":464,
          "margin":0,
@@ -1317,7 +1317,7 @@
         {
          "columns":18,
          "firstgid":11114,
-         "image":"/tiles\/32x32_scifi_Denzi130324-1.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/32x32_scifi_Denzi130324-1.png",
          "imageheight":752,
          "imagewidth":576,
          "margin":0,
@@ -1943,7 +1943,7 @@
         {
          "columns":16,
          "firstgid":12552,
-         "image":"/tiles\/rc3-mullana-neon-signs.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/rc3-mullana-neon-signs.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2734,7 +2734,7 @@
         {
          "columns":16,
          "firstgid":12808,
-         "image":"/tiles\/rc3-mullana-objects.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/rc3-mullana-objects.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -2748,7 +2748,7 @@
         {
          "columns":16,
          "firstgid":12936,
-         "image":"/tiles\/dk_lines.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/dk_lines.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -3663,7 +3663,7 @@
         {
          "columns":4,
          "firstgid":13192,
-         "image":"/tiles\/60_kissen.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/60_kissen.png",
          "imageheight":64,
          "imagewidth":128,
          "margin":0,
@@ -3677,7 +3677,7 @@
         {
          "columns":1,
          "firstgid":13200,
-         "image":"/tiles\/37_Sitzsack_01.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/37_Sitzsack_01.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -3691,7 +3691,7 @@
         {
          "columns":16,
          "firstgid":13201,
-         "image":"/tiles\/AceSet-Hospital.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/AceSet-Hospital.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -3705,7 +3705,7 @@
         {
          "columns":2,
          "firstgid":13457,
-         "image":"/tiles\/misc_set.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/misc_set.png",
          "imageheight":832,
          "imagewidth":64,
          "margin":0,
@@ -3719,7 +3719,7 @@
         {
          "columns":4,
          "firstgid":13509,
-         "image":"/tiles\/rc3_style_set.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/rc3_style_set.png",
          "imageheight":224,
          "imagewidth":128,
          "margin":0,
@@ -4010,7 +4010,7 @@
         {
          "columns":16,
          "firstgid":13537,
-         "image":"/tiles\/tilesets_deviant_milkian_1.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -4024,7 +4024,7 @@
         {
          "columns":1,
          "firstgid":13793,
-         "image":"/tiles\/38_Sitzsack_02.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/38_Sitzsack_02.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -4038,7 +4038,7 @@
         {
          "columns":1,
          "firstgid":13794,
-         "image":"/tiles\/46_Sitzsack_10.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/46_Sitzsack_10.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -4052,7 +4052,7 @@
         {
          "columns":8,
          "firstgid":13795,
-         "image":"/tiles\/BW32x32_monochrome_walls_Denzi070708-2.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/BW32x32_monochrome_walls_Denzi070708-2.png",
          "imageheight":128,
          "imagewidth":256,
          "margin":0,
@@ -4076,7 +4076,7 @@
         {
          "columns":8,
          "firstgid":13827,
-         "image":"/tiles\/fantasy.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -4090,7 +4090,7 @@
         {
          "columns":3,
          "firstgid":14891,
-         "image":"/tiles\/kampfdrohne.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/kampfdrohne.png",
          "imageheight":135,
          "imagewidth":96,
          "margin":0,
@@ -4103,7 +4103,7 @@
         {
          "columns":18,
          "firstgid":14903,
-         "image":"/tiles\/32x32_scifi_Denzi130320-1.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/32x32_scifi_Denzi130320-1.png",
          "imageheight":384,
          "imagewidth":576,
          "margin":0,
@@ -4318,7 +4318,7 @@
         {
          "columns":6,
          "firstgid":15119,
-         "image":"/tiles\/denziauge.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/denziauge.png",
          "imageheight":224,
          "imagewidth":192,
          "margin":0,
@@ -4701,7 +4701,7 @@
         {
          "columns":8,
          "firstgid":15161,
-         "image":"/tiles\/d4hnexf-322e4495-bf5d-4bf1-ad9e-f1715aff9217.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/d4hnexf-322e4495-bf5d-4bf1-ad9e-f1715aff9217.png",
          "imageheight":7000,
          "imagewidth":256,
          "margin":0,
@@ -4715,7 +4715,7 @@
         {
          "columns":6,
          "firstgid":16905,
-         "image":"/tiles\/vizTESTtileSet.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/vizTESTtileSet.png",
          "imageheight":192,
          "imagewidth":192,
          "margin":0,
@@ -5002,7 +5002,7 @@
         {
          "columns":7,
          "firstgid":16941,
-         "image":"/tiles\/fire-skull-no-fire.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/fire-skull-no-fire.png",
          "imageheight":64,
          "imagewidth":224,
          "margin":0,
@@ -5065,7 +5065,7 @@
         {
          "columns":3,
          "firstgid":16955,
-         "image":"/tiles\/tiny_skelly-NESW.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/tiny_skelly-NESW.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -5104,7 +5104,7 @@
         {
          "columns":16,
          "firstgid":16967,
-         "image":"/tiles\/rc3-mullana-functionary.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/rc3-mullana-functionary.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -5263,7 +5263,7 @@
         {
          "columns":16,
          "firstgid":17223,
-         "image":"/tiles\/dk_transports.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/dk_transports.png",
          "imageheight":96,
          "imagewidth":512,
          "margin":0,
@@ -5430,7 +5430,7 @@
         {
          "columns":5,
          "firstgid":17271,
-         "image":"/tiles\/TILESET_HITNESS_CLUB_TV_BLINKEN.png",
+         "image":"https://github.com/gaebbae/vizworld/tree/main/tiles/TILESET_HITNESS_CLUB_TV_BLINKEN.png",
          "imageheight":160,
          "imagewidth":160,
          "margin":0,
