@@ -5147,54 +5147,6 @@
                 {
                  "animation":[
                         {
-                         "duration":172,
-                         "tileid":17
-                        }, 
-                        {
-                         "duration":172,
-                         "tileid":53
-                        }, 
-                        {
-                         "duration":172,
-                         "tileid":23
-                        }, 
-                        {
-                         "duration":172,
-                         "tileid":59
-                        }, 
-                        {
-                         "duration":172,
-                         "tileid":26
-                        }, 
-                        {
-                         "duration":172,
-                         "tileid":13
-                        }, 
-                        {
-                         "duration":172,
-                         "tileid":57
-                        }, 
-                        {
-                         "duration":172,
-                         "tileid":23
-                        }, 
-                        {
-                         "duration":172,
-                         "tileid":29
-                        }, 
-                        {
-                         "duration":172,
-                         "tileid":51
-                        }, 
-                        {
-                         "duration":172,
-                         "tileid":50
-                        }],
-                 "id":0
-                }, 
-                {
-                 "animation":[
-                        {
                          "duration":450,
                          "tileid":56
                         }, 
