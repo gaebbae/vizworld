@@ -575,9 +575,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.vizak.org\/club-de-anti\/"
+                 "value":"https:\/\/stream.cyberyoga.org\/radio\/8030\/radio.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -920,7 +920,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":87,
+ "nextlayerid":91,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -5144,6 +5144,54 @@
          "tilecount":256,
          "tileheight":32,
          "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":172,
+                         "tileid":17
+                        }, 
+                        {
+                         "duration":172,
+                         "tileid":53
+                        }, 
+                        {
+                         "duration":172,
+                         "tileid":23
+                        }, 
+                        {
+                         "duration":172,
+                         "tileid":59
+                        }, 
+                        {
+                         "duration":172,
+                         "tileid":26
+                        }, 
+                        {
+                         "duration":172,
+                         "tileid":13
+                        }, 
+                        {
+                         "duration":172,
+                         "tileid":57
+                        }, 
+                        {
+                         "duration":172,
+                         "tileid":23
+                        }, 
+                        {
+                         "duration":172,
+                         "tileid":29
+                        }, 
+                        {
+                         "duration":172,
+                         "tileid":51
+                        }, 
+                        {
+                         "duration":172,
+                         "tileid":50
+                        }],
+                 "id":0
+                }, 
                 {
                  "animation":[
                         {
