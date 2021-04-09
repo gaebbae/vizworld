@@ -541,7 +541,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe width=\"560\" height=\"315\" sandbox=\"allow-same-origin allow-scripts allow-popups\" src=\"https:\/\/kolektiva.media\/videos\/embed\/7376e419-6e76-4fc4-bc72-8fc77abfd034?start=0s&loop=1&autoplay=1\" frameborder=\"0\" allowfullscreen><\/iframe>"
+                 "value":"https:\/\/kolektiva.media\/videos\/embed\/7376e419-6e76-4fc4-bc72-8fc77abfd034"
                 }, 
                 {
                  "name":"openWebsitePolicy",
