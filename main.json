@@ -295,7 +295,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/gaebbae\/vizworld\/blob\/65090e6ec344777e1b3b229cb461aa4e51ad13ec\/info.html"
+                 "value":"https:\/\/gaebbae.github.io\/vizworld\/vizworldinfo.html"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -68,6 +68,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.vizak.org\/2020\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -278,6 +283,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.hitness.club"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1045,6 +1055,12 @@
          "id":10,
          "name":"infoschilderSW",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/gaebbae.github.io\/vizworld\/vizworldinfo.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":112,
