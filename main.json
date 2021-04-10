@@ -290,7 +290,7 @@
          "height":32,
          "id":31,
          "name":"openVIzworldInfo",
-         "opacity":1,
+         "opacity":0.4,
          "properties":[
                 {
                  "name":"openWebsite",
