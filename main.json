@@ -457,7 +457,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"infobinary.html "
                 }],
          "type":"tilelayer",
          "visible":true,
