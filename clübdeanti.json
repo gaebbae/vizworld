@@ -86,6 +86,12 @@
          "id":98,
          "name":"linkzumcyberyogaklo",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/moorhexa.github.io\/club.cyberyoga.org\/maps\/dungeon\/0\/map.json#start"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":112,
