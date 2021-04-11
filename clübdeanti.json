@@ -88,7 +88,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.wa.binary-kitchen.de\/_\/global\/moorhexa.github.io\/club.cyberyoga.org\/maps\/dungeon\/0\/map.json#start"
                 }],
