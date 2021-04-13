@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
