@@ -33,12 +33,6 @@
          "id":84,
          "name":"exit",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"main.json#start"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":112,
@@ -479,6 +473,24 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.vizak.org\/"
+                        }]
+                }, 
+                {
+                 "id":36,
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"main.json#start"
+                        }]
+                }, 
+                {
+                 "id":46,
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"main.json#start"
                         }]
                 }, 
                 {
