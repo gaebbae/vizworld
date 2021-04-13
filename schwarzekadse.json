@@ -201,6 +201,12 @@
          "id":117,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"main.json#start"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":112,
